@@ -2,33 +2,33 @@
 @config "../tailwind.config.js";
 
 :root {
-  --color-background-primary: #ffffff;
-  --color-background-secondary: #eeeeee;
-  --color-background-tertiary: #666666;
-  --color-background-alternative: #000000;
-  --color-text-primary: #000000;
-  --color-text-secondary: #666666;
-  --color-text-alternative: #ffffff;
-  --color-border-primary: #000000;
-  --color-border-secondary: #aaaaaa;
-  --color-border-alternative: #ffffff;
+  --color-background-primary: #1b1410;
+  --color-background-secondary: #2b1f14;
+  --color-background-tertiary: #4CAF50;
+  --color-background-alternative: #2f2b28;
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #e8e0d2;
+  --color-text-alternative: #c9c0b7;
+  --color-border-primary: #2a2a2a;
+  --color-border-secondary: #474747;
+  --color-border-alternative: #6b6b6b;
   --scheme-background: var(--color-background-primary);
   --scheme-foreground: var(--color-background-primary);
   --scheme-text: var(--color-text-primary);
   --scheme-border: var(--color-border-primary);
-  --scheme-button-text: var(--color-text-alternative);
-  --font-sans: Arial, sans-serif;
-  --font-display: var(--font-sans);
+  --scheme-button-text: #ffffff;
+  --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, 'Noto Sans', sans-serif;
+  --font-display: Georgia, 'Times New Roman', serif;
   --space-section-sm: 4rem;
   --space-section-md: 6rem;
   --space-section-lg: 7rem;
-  --radius-button: 0rem;
-  --radius-card: 0rem;
-  --radius-image: 0rem;
-  --radius-form: 0rem;
-  --radius-badge: 0rem;
-  --radius-control: 0rem;
-  --shadow-card: none;
+  --radius-button: 6px;
+  --radius-card: 6px;
+  --radius-image: 6px;
+  --radius-form: 6px;
+  --radius-badge: 6px;
+  --radius-control: 6px;
+  --shadow-card: 0 2px 6px rgba(0,0,0,0.15);
 }
 
 html {

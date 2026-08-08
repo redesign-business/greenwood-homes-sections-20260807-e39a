@@ -1,0 +1,17 @@
+{
+  "backgroundPrimary": "#1b1410",
+  "backgroundSecondary": "#2b1f14",
+  "backgroundTertiary": "#4CAF50",
+  "backgroundAlternative": "#2f2b28",
+  "textPrimary": "#ffffff",
+  "textSecondary": "#e8e0d2",
+  "textAlternative": "#c9c0b7",
+  "borderPrimary": "#2a2a2a",
+  "borderSecondary": "#474747",
+  "borderAlternative": "#6b6b6b",
+  "buttonText": "#ffffff",
+  "fontSans": "system-ui, -apple-system, 'Segoe UI', Roboto, Arial, 'Noto Sans', sans-serif",
+  "fontDisplay": "Georgia, 'Times New Roman', serif",
+  "radius": "6px",
+  "shadow": "0 2px 6px rgba(0,0,0,0.15)"
+}

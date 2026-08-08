@@ -1,0 +1,21 @@
+Phase: image-hero
+Model: openai/gpt-5-nano
+Exit code: 0
+
+[0m
+> image · openai/gpt-5-nano
+[0m
+First step: fetch the image input prompt to determine allowed choices and limits. I'll read the .redesign/image-input.md and then decide on a minimal valid imageIds array that matches the prompt.
+[0m→ [0mRead .redesign/image-input.md[90m [offset=1, limit=2000][0m
+Edit: Create the image-selection.json with a small, representative set of exterior images that fit the section. We'll include four exteriors (avoiding logos) and keep the set within typical display capacity.
+[0m% [0mPatch 1 file
+The image-selection.json file has been created with the selected IDs:
+
+{
+  "imageIds": ["img_008", "img_009", "img_010", "img_062"]
+}
+
+Notes:
+- Chosen IDs are from the available original images (and exclude any logos).
+- The set focuses on exterior/property imagery to align with the section’s proof and composition context.
+- If you want adjustments (more/less images or different IDs), tell me and I’ll update .redesign/image-selection.json accordingly.

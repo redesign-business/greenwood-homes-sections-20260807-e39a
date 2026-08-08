@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "id": "navbar",
+      "slug": "navbar15_component",
+      "imageIds": []
+    },
+    {
+      "id": "hero",
+      "slug": "section_header145",
+      "imageIds": [
+        "img_008",
+        "img_009",
+        "img_010",
+        "img_062"
+      ]
+    },
+    {
+      "id": "licensing-credentials",
+      "slug": "grid-list5_component",
+      "imageIds": [
+        "img_004",
+        "img_005",
+        "img_006"
+      ]
+    },
+    {
+      "id": "portfolio",
+      "slug": "section_portfolio23",
+      "imageIds": []
+    },
+    {
+      "id": "services",
+      "slug": "grid-list5_component",
+      "imageIds": []
+    },
+    {
+      "id": "experience-track-record",
+      "slug": "stat2_component",
+      "imageIds": [
+        "img_053"
+      ]
+    },
+    {
+      "id": "awards",
+      "slug": "section_logo2",
+      "imageIds": []
+    },
+    {
+      "id": "testimonials",
+      "slug": "section_testimonial43",
+      "imageIds": []
+    },
+    {
+      "id": "footer",
+      "slug": "footer7_component",
+      "imageIds": []
+    }
+  ]
+}
