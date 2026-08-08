@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "title": "Greenwood Homes | Award-Winning Custom Home Builder",
+    "description": "Award-winning custom home builder serving Nevada, California, Hawaii, Idaho, and Utah since 1998 with over 50 completed homes."
+  },
+  "cta": {
+    "title": "Contact Us",
+    "url": "https://greenwood-homes.com/contact/"
+  },
+  "sections": [
+    {
+      "id": "navbar",
+      "purpose": "Provide persistent navigation to the company's main site areas.",
+      "proof": [],
+      "relumeQuery": "simple navbar"
+    },
+    {
+      "id": "hero",
+      "purpose": "Establish who Greenwood Homes is and the scale of their work as a custom home builder.",
+      "proof": [
+        "Over 50 custom homes completed since 1998",
+        "Serving Nevada, California, Hawaii, Idaho, and Utah",
+        "Seven Tahoe Quarterly Mountain Home Awards including 2025 and 2023"
+      ],
+      "relumeQuery": "hero header background image"
+    },
+    {
+      "id": "licensing-credentials",
+      "purpose": "Build trust by showing licensed coverage and recognized professional credentials across all served states.",
+      "proof": [
+        "Licensed General Contractor in California, Nevada, Hawaii, Idaho, and Utah",
+        "LEED Accredited Professionals on the project team",
+        "Building custom homes since 1998"
+      ],
+      "relumeQuery": "feature grid service cards"
+    },
+    {
+      "id": "portfolio",
+      "purpose": "Show the range and locations of completed homes and signature projects.",
+      "proof": [
+        "Portfolio of more than 40 featured completed homes across Lake Tahoe, Hawaii, Idaho, and Utah",
+        "Projects at Kukuiula, Martis Camp, Dollar Point, Carson Valley, and Gozzer Ranch",
+        "Built the Tahoe Provisions Market at the Hyatt Regency Lake Tahoe",
+        "Completed a roughly 5,000-square-foot Incline Village dream home under time and under budget",
+        "Completed a partially built Glenbrook project after the original builder went bankrupt"
+      ],
+      "relumeQuery": "gallery portfolio card grid"
+    },
+    {
+      "id": "services",
+      "purpose": "Detail the construction services and pre-construction expertise offered.",
+      "proof": [
+        "New construction, remodels, renovations, additions, tenant improvements, and energy-efficient upgrades",
+        "Pre-construction services including estimating, feasibility review, value engineering, MEP review, constructability review, risk assessment, and scheduling"
+      ],
+      "relumeQuery": "feature grid service list"
+    },
+    {
+      "id": "experience-track-record",
+      "purpose": "Demonstrate reliability through experience, repeat clients, and on-time, on-budget delivery.",
+      "proof": [
+        "Building custom homes since 1998",
+        "Repeat clients and multi-project homeowners, some building multiple homes with the company",
+        "Projects delivered on time and on budget",
+        "Superintendents with 25 to over 50 years of construction experience"
+      ],
+      "relumeQuery": "stats metrics cards"
+    },
+    {
+      "id": "awards",
+      "purpose": "Show recognition from published design awards.",
+      "proof": [
+        "Seven Tahoe Quarterly Mountain Home Awards including 2025 and 2023",
+        "Additional Tahoe Quarterly Craftsmanship, Legacy Home, Merit, and Interior Design awards between 2014 and 2021"
+      ],
+      "relumeQuery": "logo award recognition strip"
+    },
+    {
+      "id": "testimonials",
+      "purpose": "Share client satisfaction and trust through direct quotes.",
+      "proof": [
+        "Client praised Kevin Hanna as honest, a good communicator, and a perfectionist, calling the experience the best",
+        "Lakeshore Boulevard client confirmed home completed on time and on budget",
+        "Property owner noted Greenwood exceeded expectations on the Hyatt Regency Tahoe Provisions Market project",
+        "Clients describe the experience as truly great from start to finish and exceeding all expectations"
+      ],
+      "relumeQuery": "testimonial quote cards"
+    },
+    {
+      "id": "footer",
+      "purpose": "Provide site-wide navigation, contact options, and social links.",
+      "proof": [],
+      "relumeQuery": "simple footer"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "slugs": [
+    "navbar15_component",
+    "section_header145",
+    "grid-list5_component",
+    "section_portfolio23",
+    "stat2_component",
+    "section_logo2",
+    "section_testimonial43",
+    "footer7_component"
+  ],
+  "files": [
+    {
+      "path": "components/relume/Navbar15.tsx",
+      "sourceSha256": "af862334445a0519358944238636a784aab89d8cd592c1b87ffb7a49a59c5ef1",
+      "sha256": "29a16c51e9d80b7f62098d181e14716f4b6a485922e9ee6117c5183385fc9746",
+      "compatibilityEdits": 4
+    },
+    {
+      "path": "components/relume/Header145.tsx",
+      "sourceSha256": "efe156d5c85c5139710a0f0d2461d528e2d58bbfa7454c60b8b58c87aedf2580",
+      "sha256": "efe156d5c85c5139710a0f0d2461d528e2d58bbfa7454c60b8b58c87aedf2580",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/GridList5.tsx",
+      "sourceSha256": "011293577522c2d13e0b3a55ea55d31e06712be4d27da4fc50fde602e0381e33",
+      "sha256": "011293577522c2d13e0b3a55ea55d31e06712be4d27da4fc50fde602e0381e33",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Portfolio23.tsx",
+      "sourceSha256": "0244214f6c59c6c6c1c02d05dec65a31af42d8fd223446f5c14d2967d5136ee6",
+      "sha256": "0244214f6c59c6c6c1c02d05dec65a31af42d8fd223446f5c14d2967d5136ee6",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Stat2.tsx",
+      "sourceSha256": "90e4f9027479100d7b806995f736bf72b508ac2deb41c55d34213301b81fe115",
+      "sha256": "90e4f9027479100d7b806995f736bf72b508ac2deb41c55d34213301b81fe115",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Logo2.tsx",
+      "sourceSha256": "ce2fcf15ed2564bbb50931e65cee7f1997f9ae28ed39b64a6a92bdfa2fb0e996",
+      "sha256": "3b3003df3a78932011f64c2418734ec93d661f404770b845ebb30e418a69433d",
+      "compatibilityEdits": 1
+    },
+    {
+      "path": "components/relume/Testimonial43.tsx",
+      "sourceSha256": "1e8e9ce1029e7fdce82cee01258af020aac525e96e548a8227612075171aa7d7",
+      "sha256": "1e8e9ce1029e7fdce82cee01258af020aac525e96e548a8227612075171aa7d7",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Footer7.tsx",
+      "sourceSha256": "23e440a105c6fb3c82fdfa142bab3ea84958ab6aa119e38043a3a762e772f5a8",
+      "sha256": "c5661f752ce085728454fe6781175087dd02b53c9e572957c5fa7b2bd9aef095",
+      "compatibilityEdits": 1
+    },
+    {
+      "path": "components/ui/badge.tsx",
+      "sourceSha256": "e24f4fee504f2518be17efc65370a2ee9fdd87a95ec6700882eaf7678d67ec7f",
+      "sha256": "e24f4fee504f2518be17efc65370a2ee9fdd87a95ec6700882eaf7678d67ec7f",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "sourceSha256": "c8d59760c44fbfd7b092ce73059363b617db1efe2651e9916e0e151dcc4562df",
+      "sha256": "c8d59760c44fbfd7b092ce73059363b617db1efe2651e9916e0e151dcc4562df",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/carousel.tsx",
+      "sourceSha256": "0dff8a444c7dfa8b542ee3ce9972ab4dc8b07b1db81dbbd95d298dde2c3efd26",
+      "sha256": "0dff8a444c7dfa8b542ee3ce9972ab4dc8b07b1db81dbbd95d298dde2c3efd26",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/dropdown-menu.tsx",
+      "sourceSha256": "ddb28cd40aa62955a9e83b5b4b40ebb22a3770069a63df5482bd2ce9686cb263",
+      "sha256": "ddb28cd40aa62955a9e83b5b4b40ebb22a3770069a63df5482bd2ce9686cb263",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "sourceSha256": "4185621982eaebc366f46e9f42777a853b1bcad17370c80ebee48d3325bca5b3",
+      "sha256": "4185621982eaebc366f46e9f42777a853b1bcad17370c80ebee48d3325bca5b3",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/select.tsx",
+      "sourceSha256": "118895b680222ef9f1fc2c02fd9136cfe3436d3da0bd003aa95b4f465919617a",
+      "sha256": "118895b680222ef9f1fc2c02fd9136cfe3436d3da0bd003aa95b4f465919617a",
+      "compatibilityEdits": 0
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-dropdown-menu",
+    "@radix-ui/react-select",
+    "@radix-ui/react-slot",
+    "class-variance-authority@0.7.1",
+    "clsx@^2.1.1",
+    "embla-carousel-react@^8.5.2",
+    "motion@^12.15.0",
+    "relume-icons@1.3.0",
+    "tailwind-merge@^2.2.2"
+  ]
+}
